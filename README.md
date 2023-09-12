@@ -1,6 +1,7 @@
 # Spotify-Data-Analysis
 A Scala implementation
 
+Team-07
 ## Introduction 
 
 As a part of one of our courses ; Big Data Analytics, we have completed a project in which we have analysed the various features of a Spotify dataset such as danceability,popularity and valence. We have implemented this using Spark which is an open-source, distributed processing system which is used for big data workloads. It utilizes a technique called 'memory caching' in which computer applications temporarily store data in a computer's main memory (RAM) and optimized query execution for fast queries against data of any size. Simply put, Spark is a fast and general engine for large-scale data processing.
